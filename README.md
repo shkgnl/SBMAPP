@@ -5,9 +5,12 @@ SBMAPP is a Small Business Management APP. Espacially companies who work in fiel
 *Designs are made with figma, coding will be in flutter.*
 
 
-![LandingPage](/LandingPage-removebg-preview.png)
+![LandingPage](/1-removebg-preview (1).png)
 
-![DayDetailsPage](/DayDetails-removebg-preview.png)
+![DayDetailsPage](/2-removebg-preview (1).png)
 
-![DayDetailsPage](/DayDetailsContiue-removebg-preview.png)
+![DayDetailsPage](/3-removebg-preview (1).png)
 
+![DayDetailsPage](/4-emovebg-preview (1).png)
+
+![DayDetailsPage](/5-remove-preview.png)
